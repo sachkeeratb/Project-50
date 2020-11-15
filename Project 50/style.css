@@ -1,0 +1,19 @@
+h1 {
+    color:darksalmon;
+    border: solid;
+    text-align: center;
+}
+
+a {
+    color:olive;
+}
+
+.header {
+    background-color:grey;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
